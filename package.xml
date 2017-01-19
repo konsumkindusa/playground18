@@ -94,6 +94,7 @@
         <members>Activity</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>Beckman__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -180,6 +181,7 @@
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>Beckman__c-Beckman Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
@@ -429,6 +431,7 @@
         <members>AR_CustomObject_Demo__c</members>
         <members>Account</members>
         <members>Asset</members>
+        <members>Beckman__c</members>
         <members>Campaign</members>
         <members>Case</members>
         <members>Contact</members>
